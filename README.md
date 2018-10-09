@@ -2,7 +2,7 @@
 *a simple domestic measurements system*
 
 ### Intro
-**weather_station** è un insieme di componenti che consentono di catturare dati di umidità e temperatura tramite un sensore DHT11/22 collegato ad un raspberry pi, di immagazzinare le misurazioni effettuate nel tempo su un database mongodb, quindi estrapolare tali informazioni e mostrarle all'utente tramite una web_app realtime costruita su node.js + socket.io (lato server) e jquery + bootstrap per la logica di presentazione su browser. Per maggiori dettagli sul funzionamento generale rimando al *tutorial* pubblicato sul mio blog (w.i.p.).
+**weather_station** è un insieme di componenti che consentono di catturare dati di umidità e temperatura tramite un sensore DHT11/22 collegato ad un raspberry pi, di immagazzinare le misurazioni effettuate nel tempo su un database mongodb, quindi estrapolare tali informazioni e mostrarle all'utente tramite una web_app realtime costruita su node.js + socket.io (lato server) e jquery + bootstrap per la logica di presentazione su browser. Per maggiori dettagli sul funzionamento generale rimando al *tutorial* pubblicato sul mio blog (https://geekonerd.blogspot.com/2018/10/tutorial-come-costruire-una-stazione-meteorologica-casalinga-con-raspberry-pi.html).
 
 #### Contenuto
 Sono compresi:
